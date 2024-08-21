@@ -1,0 +1,24 @@
+# .gitignore
+
+# Diretórios e arquivos do Node.js
+node_modules/
+npm-debug.log
+
+# Diretórios e arquivos de compilação Java
+bin/
+lib/
+
+# Arquivos de configuração local
+*.iml
+*.idea/
+*.project
+
+# Arquivos de banco de dados locais
+*.sql
+*.db
+
+# Arquivos de log
+*.log
+
+# Diretórios e arquivos do sistema
+.DS_Store

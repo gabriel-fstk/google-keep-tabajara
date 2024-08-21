@@ -137,8 +137,3 @@ Contribuições são bem-vindas! Para contribuir com o projeto:
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
-
-Sinta-se à vontade para ajustar as instruções conforme necessário e adicionar quaisquer detalhes específicos sobre seu projeto. Se precisar de mais informações ou ajustes, estou aqui para ajudar!
-```
-
-Esse ajuste garante que as pastas `lib` e `bin` sejam criadas antes da compilação, e que as instruções para instalação de bibliotecas e execução estejam claras. Se precisar de mais alguma coisa, é só avisar!
